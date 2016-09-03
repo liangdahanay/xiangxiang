@@ -1,0 +1,6 @@
+n.genes	n.clusters
+2	49
+7	1
+5	3
+3	10
+6	1

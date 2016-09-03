@@ -1,0 +1,3 @@
+function [index] = binarySearch(array, target)
+    
+end
